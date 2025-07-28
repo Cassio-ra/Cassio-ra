@@ -29,7 +29,7 @@
 ### 🛠️ Dev Tools
 
 <p align="left">
-	<img src="https://skillicons.dev/icons?i=git,phpstorm"/>
+	<img src="https://skillicons.dev/icons?i=git,phpstorm,webstorm"/>
 	<img src="https://skillicons.dev/icons?i=dbeaver"/>
 </p>
 

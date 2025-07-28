@@ -30,7 +30,7 @@
 
 <p align="left">
 	<img src="https://skillicons.dev/icons?i=git,phpstorm"/>
-  <img src="https://avatars.githubusercontent.com/u/22324855?s=200&v=4" alt="DBeaver" />
+	<img src="https://skillicons.dev/icons?i=dbeaver"/>
 </p>
 
 ---
